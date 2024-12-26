@@ -1,6 +1,8 @@
 const express = require("express");
 const bodyParser = require("body-parser");
 const morgan = require("morgan");
+const https = require("https");
+const fs = require("fs");
 const {
   handleMpesaExpressCallback,
   handleMpesaC2BCallback,
@@ -63,6 +65,11 @@ app.get("/health", (req, res) => {
   res.json({ status: "ok" });
 });
 
-app.listen(port, () => {
-  console.log(`Server running on port ${port}`);
+const options = {
+  key: fs.readFileSync("server.key"),
+  cert: fs.readFileSync("server.cert"),
+};
+
+https.createServer(options, app).listen(port, () => {
+  console.log(`Server started at port ${port}`);
 });
