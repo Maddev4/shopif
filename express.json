@@ -1,0 +1,273 @@
+{
+  "id": 6339061285147,
+  "admin_graphql_api_id": "gid://shopify/Order/6339061285147",
+  "app_id": 580111,
+  "browser_ip": "77.247.126.189",
+  "buyer_accepts_marketing": true,
+  "cancel_reason": null,
+  "cancelled_at": null,
+  "cart_token": "Z2NwLXVzLWNlbnRyYWwxOjAxSkZUSEVaUjBXVDUwUDIyOTFBRlYxTVA5",
+  "checkout_id": 39435278549275,
+  "checkout_token": "10f1b87465bb247a3e9dcbbadf61b4a2",
+  "client_details": {
+    "accept_language": "en-KE",
+    "browser_height": null,
+    "browser_ip": "77.247.126.189",
+    "browser_width": null,
+    "session_hash": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+  },
+  "closed_at": null,
+  "confirmation_number": "97LDZQ9R7",
+  "confirmed": true,
+  "contact_email": "ninth.fidelity862@passinbox.com",
+  "created_at": "2024-12-23T13:56:30-06:00",
+  "currency": "KES",
+  "current_shipping_price_set": {
+    "shop_money": { "amount": "0.00", "currency_code": "KES" },
+    "presentment_money": { "amount": "0.00", "currency_code": "KES" }
+  },
+  "current_subtotal_price": "400.00",
+  "current_subtotal_price_set": {
+    "shop_money": { "amount": "400.00", "currency_code": "KES" },
+    "presentment_money": { "amount": "400.00", "currency_code": "KES" }
+  },
+  "current_total_additional_fees_set": null,
+  "current_total_discounts": "0.00",
+  "current_total_discounts_set": {
+    "shop_money": { "amount": "0.00", "currency_code": "KES" },
+    "presentment_money": { "amount": "0.00", "currency_code": "KES" }
+  },
+  "current_total_duties_set": null,
+  "current_total_price": "464.00",
+  "current_total_price_set": {
+    "shop_money": { "amount": "464.00", "currency_code": "KES" },
+    "presentment_money": { "amount": "464.00", "currency_code": "KES" }
+  },
+  "current_total_tax": "64.00",
+  "current_total_tax_set": {
+    "shop_money": { "amount": "64.00", "currency_code": "KES" },
+    "presentment_money": { "amount": "64.00", "currency_code": "KES" }
+  },
+  "customer_locale": "en-KE",
+  "device_id": null,
+  "discount_codes": [],
+  "duties_included": false,
+  "email": "ninth.fidelity862@passinbox.com",
+  "estimated_taxes": false,
+  "financial_status": "pending",
+  "fulfillment_status": null,
+  "landing_site": "/password",
+  "landing_site_ref": null,
+  "location_id": null,
+  "merchant_business_entity_id": "MTkyMDY0OTczMDgz",
+  "merchant_of_record_app_id": null,
+  "name": "#1005",
+  "note": null,
+  "note_attributes": [],
+  "number": 5,
+  "order_number": 1005,
+  "order_status_url": "https://sarunet.africa/92064973083/orders/57f4955139452cd7483b680a67afdf1f/authenticate?key=ff20625865c8f4d70a53e215f6740c9b",
+  "original_total_additional_fees_set": null,
+  "original_total_duties_set": null,
+  "payment_gateway_names": ["M-Pesa C2B"],
+  "phone": null,
+  "po_number": null,
+  "presentment_currency": "KES",
+  "processed_at": "2024-12-23T13:56:28-06:00",
+  "reference": null,
+  "referring_site": "",
+  "source_identifier": null,
+  "source_name": "web",
+  "source_url": null,
+  "subtotal_price": "400.00",
+  "subtotal_price_set": {
+    "shop_money": { "amount": "400.00", "currency_code": "KES" },
+    "presentment_money": { "amount": "400.00", "currency_code": "KES" }
+  },
+  "tags": "",
+  "tax_exempt": false,
+  "tax_lines": [
+    {
+      "price": "64.00",
+      "rate": 0.16,
+      "title": "VAT",
+      "price_set": {},
+      "channel_liable": false
+    }
+  ],
+  "taxes_included": false,
+  "test": false,
+  "token": "57f4955139452cd7483b680a67afdf1f",
+  "total_cash_rounding_payment_adjustment_set": {
+    "shop_money": { "amount": "0.00", "currency_code": "KES" },
+    "presentment_money": { "amount": "0.00", "currency_code": "KES" }
+  },
+  "total_cash_rounding_refund_adjustment_set": {
+    "shop_money": { "amount": "0.00", "currency_code": "KES" },
+    "presentment_money": { "amount": "0.00", "currency_code": "KES" }
+  },
+  "total_discounts": "0.00",
+  "total_discounts_set": {
+    "shop_money": { "amount": "0.00", "currency_code": "KES" },
+    "presentment_money": { "amount": "0.00", "currency_code": "KES" }
+  },
+  "total_line_items_price": "400.00",
+  "total_line_items_price_set": {
+    "shop_money": { "amount": "400.00", "currency_code": "KES" },
+    "presentment_money": { "amount": "400.00", "currency_code": "KES" }
+  },
+  "total_outstanding": "464.00",
+  "total_price": "464.00",
+  "total_price_set": {
+    "shop_money": { "amount": "464.00", "currency_code": "KES" },
+    "presentment_money": { "amount": "464.00", "currency_code": "KES" }
+  },
+  "total_shipping_price_set": {
+    "shop_money": { "amount": "0.00", "currency_code": "KES" },
+    "presentment_money": { "amount": "0.00", "currency_code": "KES" }
+  },
+  "total_tax": "64.00",
+  "total_tax_set": {
+    "shop_money": { "amount": "64.00", "currency_code": "KES" },
+    "presentment_money": { "amount": "64.00", "currency_code": "KES" }
+  },
+  "total_tip_received": "0.00",
+  "total_weight": 100,
+  "updated_at": "2024-12-23T13:56:32-06:00",
+  "user_id": null,
+  "billing_address": {
+    "first_name": "sf",
+    "address1": "1234 Market Street",
+    "phone": "+254708374149",
+    "city": "Livingston",
+    "zip": "94103",
+    "province": null,
+    "country": "Kenya",
+    "last_name": "sdf",
+    "address2": null,
+    "company": null,
+    "latitude": null,
+    "longitude": null,
+    "name": "sf sdf",
+    "country_code": "KE",
+    "province_code": null
+  },
+  "customer": {
+    "id": 8953076810011,
+    "email": "ninth.fidelity862@passinbox.com",
+    "created_at": "2024-12-23T12:43:32-06:00",
+    "updated_at": "2024-12-23T13:56:31-06:00",
+    "first_name": "sf",
+    "last_name": "sdf",
+    "state": "disabled",
+    "note": null,
+    "verified_email": true,
+    "multipass_identifier": null,
+    "tax_exempt": false,
+    "phone": null,
+    "email_marketing_consent": {
+      "state": "subscribed",
+      "opt_in_level": "single_opt_in",
+      "consent_updated_at": "2024-12-23T12:43:34-06:00"
+    },
+    "sms_marketing_consent": null,
+    "tags": "",
+    "currency": "KES",
+    "tax_exemptions": [],
+    "admin_graphql_api_id": "gid://shopify/Customer/8953076810011",
+    "default_address": {
+      "id": 11018092806427,
+      "customer_id": 8953076810011,
+      "first_name": "sf",
+      "last_name": "sdf",
+      "company": null,
+      "address1": "1234 Market Street",
+      "address2": null,
+      "city": "Livingston",
+      "province": null,
+      "country": "Kenya",
+      "zip": "94103",
+      "phone": "+254708374149",
+      "name": "sf sdf",
+      "province_code": null,
+      "country_code": "KE",
+      "country_name": "Kenya",
+      "default": true
+    }
+  },
+  "discount_applications": [],
+  "fulfillments": [],
+  "line_items": [
+    {
+      "id": 15894394306843,
+      "admin_graphql_api_id": "gid://shopify/LineItem/15894394306843",
+      "attributed_staffs": [],
+      "current_quantity": 1,
+      "fulfillable_quantity": 1,
+      "fulfillment_service": "manual",
+      "fulfillment_status": null,
+      "gift_card": false,
+      "grams": 100,
+      "name": "Test 2-Shoes",
+      "price": "400.00",
+      "price_set": {},
+      "product_exists": true,
+      "product_id": 9782540894491,
+      "properties": [],
+      "quantity": 1,
+      "requires_shipping": true,
+      "sku": "",
+      "taxable": true,
+      "title": "Test 2-Shoes",
+      "total_discount": "0.00",
+      "total_discount_set": {},
+      "variant_id": 49780481032475,
+      "variant_inventory_management": "shopify",
+      "variant_title": null,
+      "vendor": "Sarunet Africa",
+      "tax_lines": [],
+      "duties": [],
+      "discount_allocations": []
+    }
+  ],
+  "payment_terms": null,
+  "refunds": [],
+  "shipping_address": {
+    "first_name": "sf",
+    "address1": "1234 Market Street",
+    "phone": "+254708374149",
+    "city": "Livingston",
+    "zip": "94103",
+    "province": null,
+    "country": "Kenya",
+    "last_name": "sdf",
+    "address2": null,
+    "company": null,
+    "latitude": -0.023559,
+    "longitude": 37.906193,
+    "name": "sf sdf",
+    "country_code": "KE",
+    "province_code": null
+  },
+  "shipping_lines": [
+    {
+      "id": 5112206131483,
+      "carrier_identifier": null,
+      "code": "Standard",
+      "current_discounted_price_set": {},
+      "discounted_price": "0.00",
+      "discounted_price_set": {},
+      "is_removed": false,
+      "phone": null,
+      "price": "0.00",
+      "price_set": {},
+      "requested_fulfillment_service_id": null,
+      "source": "shopify",
+      "title": "Standard",
+      "tax_lines": [],
+      "discount_allocations": []
+    }
+  ],
+  "returns": []
+}
